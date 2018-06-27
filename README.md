@@ -1,1 +1,3 @@
-ChocoInstall1c
+# Пример скрипта для установки 1с через chocolatey.
+
+Как все настроить читать на [Инфорстарте](https://infostart.ru/public/854486/)
